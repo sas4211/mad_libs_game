@@ -1,4 +1,4 @@
-import streamlit as st;;;;;;;;;
+import streamlit as st
 
 #streamlit app tltle
 st.title('🎈Fun Mad Lib Game 🎈')
